@@ -11,7 +11,7 @@
   {"nome": "TIM CONTROLE L EXPRESS", "valor": 64.99},
   {"nome": "TIM CONTROLE BÁSICO EXPRESS", "valor": 55.99},
   {"nome": "TIM CONTROLE LIGHT EXPRESS", "valor": 60.99},
-  {"nome": "TIM CONTROLE PRO EXPRESS", "valor": 64.99},
+  {"nome": "TIM CONTROLE PRÓ EXPRESS", "valor": 64.99},
   {"nome": "TIM BLACK A EXPRESS", "valor": 119.99},
   {"nome": "TIM BLACK B EXPRESS", "valor": 144.99},
   {"nome": "TIM BLACK C EXPRESS", "valor": 164.99},
@@ -61,7 +61,5 @@
   {"nome": "TIM FIBRA 2 GIGA", "valor": 379.99},
   {"nome": "TIM PÓS A PLUS", "valor": 109.99},
   {"nome": "TIM CONTROLE H EXPRESS", "valor": 62.99},
-  {"nome": "TIM CONTROLE NOVO EXPRESS", "valor": 82.99},
-  {"nome": "TIM CONTROLE PRÓ EXPRESS", "valor": 64.99},
-  {"nome": "TIM CONTROLE BÁSICO EXPRESS", "valor": 55.99}
+  {"nome": "TIM CONTROLE NOVO EXPRESS", "valor": 82.99}
 ]
