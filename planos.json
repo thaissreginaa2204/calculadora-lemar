@@ -1,4 +1,5 @@
 [
+  {"nome": "TIM CONTROLE A PLUS", "valor": 78.99,
   {"nome": "TIM CONTROLE", "valor": 88.99},
   {"nome": "TIM CONTROLE SMART", "valor": 86.99},
   {"nome": "TIM CONTROLE PLUS", "valor": 102.99},
@@ -59,5 +60,5 @@
   {"nome": "TIM FIBRA 1 GIGA M", "valor": 189.99},
   {"nome": "TIM FIBRA 2 GIGA", "valor": 379.99},
   {"nome": "TIM PÓS A PLUS", "valor": 109.99},
-  {"nome": "TIM CONTROLE H EXPRESS", "valor": 62.99}
+  {"nome": "TIM CONTROLE H EXPRESS", "valor": 62.99},
 ]
